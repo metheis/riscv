@@ -539,3 +539,6 @@ fail_msg:
 - [RISC-V Foundation](https://riscv.org/)
 - [RISC-V ISA Specification](https://riscv.org/specifications/)
 - [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain/)
+
+This project is a continuation of previous work by
+[michaeljclark](https://github.com/michaeljclark).

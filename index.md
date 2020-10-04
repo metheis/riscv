@@ -122,3 +122,6 @@ Format | Name | Pseudocode
 - [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain/)
 - [RISC-V Open Source Software Implementations](/riscv/software)
 - [RISC-V Assembler Reference](/riscv/asm)
+
+This project is a continuation of previous work by
+[michaeljclark](https://github.com/michaeljclark).
