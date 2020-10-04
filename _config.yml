@@ -1,5 +1,5 @@
-title: rv8
-description: RISC-V simulator for x86-64
+title: RISC-V Guide
+description: RISC-V ISA Reference
 theme: jekyll-theme-cayman
 show_downloads: false
-github_url: https://github.com/metheis/rv8-io-clone
+github_url: https://github.com/metheis/riscv
