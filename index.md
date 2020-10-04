@@ -2,7 +2,7 @@
 
 This document contains a brief listing of instructions and pseudocode
 for the RISC-V "I" _(Integer)_ and "M" _(Multiply-Divide)_
-extensions. The [RISC-V Assembler Reference](/asm) contains
+extensions. The [RISC-V Assembler Reference](/riscv/asm) contains
 information on programming in assembly language for RISC-V.
 For detailed information on the instruction set refer to the
 [RISC-V ISA Specification](http://riscv.org/specifications/).
@@ -114,9 +114,9 @@ Format | Name | Pseudocode
 
 ### References
 
-- [RISC-V Foundation](http://riscv.org/)
-- [RISC-V ISA Specification](http://riscv.org/specifications/)
-- [RISC-V Privileged ISA Specification](http://riscv.org/specifications/privileged-isa/)
+- [RISC-V Foundation](https://riscv.org/)
+- [RISC-V ISA Specification](https://riscv.org/specifications/)
+- [RISC-V Privileged ISA Specification](https://riscv.org/specifications/privileged-isa/)
 - [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain/)
-- [RISC-V Open Source Software Implementations](/software)
-- [RISC-V Assembler Reference](/asm)
+- [RISC-V Open Source Software Implementations](/riscv/software)
+- [RISC-V Assembler Reference](/riscv/asm)

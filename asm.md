@@ -7,11 +7,11 @@ instructions, relocation functions, and assembler concepts
 such as labels, relative and absolute addressing, immediate
 values, constants and finally control and status registers.
 
-The accompanying [RISC-V Instruction Set Reference](/isa)
+The [homepage](/riscv)
 contains a listing of instruction in the `I` _(Base Integer
 Instruction Set)_ and `M` _(Multiply and Divide)_ extension.
 For detailed information on the RISC-V instruction set refer to
-the [RISC-V ISA Specification](http://riscv.org/specifications/).
+the [RISC-V ISA Specification](https://riscv.org/specifications/).
 
 ### Concepts
 
@@ -536,6 +536,6 @@ fail_msg:
 
 ### References
 
-- [RISC-V Foundation](http://riscv.org/)
-- [RISC-V ISA Specification](http://riscv.org/specifications/)
+- [RISC-V Foundation](https://riscv.org/)
+- [RISC-V ISA Specification](https://riscv.org/specifications/)
 - [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain/)
